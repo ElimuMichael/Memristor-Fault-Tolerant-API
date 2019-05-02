@@ -1,0 +1,369 @@
+none - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+none - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+none - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+none - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+none - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+none - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+none - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+proposed - crossbar_with_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+existing_cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+combined - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+none - crossbar_with_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+none - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+none - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+none - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+existing_cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+none - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+none - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+none - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+existing_cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+combined - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+combined - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+combined - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+combined - crossbar_no_slit - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+combined -  - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+combined - 4 - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - 4 - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - 4 - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+proposed - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+None - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+None - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+None - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+None - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+None - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+None - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+None - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+None - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+None - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+None - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+None - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+None - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+Existing Cells - crossbar_no_split - 8 bits
+perc_def	Accuracyies	Average
+________________________________________
+None - crossbar_no_split - 2 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+proposed - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+proposed - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+proposed - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+1	[0.9528, 0.986, 0.9791, 0.9829, 0.9874, 0.9295, 0.9837, 0.9655, 0.974, 0.9469, 0.95, 0.8993, 0.9751, 0.9791, 0.9582, 0.9611, 0.9064, 0.9643, 0.8692, 0.9819]	0.95662
+1	[0.9528, 0.986, 0.9791, 0.9829, 0.9874, 0.9295, 0.9837, 0.9655, 0.974, 0.9469, 0.95, 0.8993, 0.9751, 0.9791, 0.9582, 0.9611, 0.9064, 0.9643, 0.8692, 0.9819]	0.95662
+ -  - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+combined - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+none - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+existing_cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+proposed - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+ -  - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+reundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+proposed - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+none - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+3	[0.7708]	0.7708
+3	[0.7708]	0.7708
+existing_cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+3	[0.8608]	0.8608
+3	[0.8608]	0.8608
+proposed - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+3	[0.9261]	0.9261
+3	[0.9261]	0.9261
+combined - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+combined - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+3	[0.8858]	0.8858
+3	[0.8858]	0.8858
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+reduundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+3	[0.7708]	0.7708
+3	[0.7708]	0.7708
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundnt_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+3	[0.7708]	0.7708
+3	[0.7708]	0.7708
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+3	[0.8677]	0.8677
+3	[0.8677]	0.8677
+existing_cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+3	[0.8769]	0.8769
+3	[0.8769]	0.8769
+proposed - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+3	[0.9261]	0.9261
+3	[0.9261]	0.9261
+existing_cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+existing_cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+existing_cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+existing_cells - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+3	[0.8608]	0.8608
+3	[0.8608]	0.8608
+redundant_cols - crossbar_no_split - 4 bits
+perc_def	Accuracyies	Average
+________________________________________
+3	[0.8659]	0.8659
+3	[0.8659]	0.8659
